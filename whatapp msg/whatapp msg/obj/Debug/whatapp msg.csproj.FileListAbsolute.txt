@@ -1,0 +1,24 @@
+C:\Users\shah7\source\repos\whatapp msg\whatapp msg\obj\Debug\whatapp msg.csprojAssemblyReference.cache
+C:\Users\shah7\source\repos\whatapp msg\whatapp msg\obj\Debug\whatapp_msg.Form1.resources
+C:\Users\shah7\source\repos\whatapp msg\whatapp msg\obj\Debug\whatapp_msg.Properties.Resources.resources
+C:\Users\shah7\source\repos\whatapp msg\whatapp msg\obj\Debug\whatapp msg.csproj.GenerateResource.cache
+C:\Users\shah7\source\repos\whatapp msg\whatapp msg\obj\Debug\whatapp msg.csproj.CoreCompileInputs.cache
+C:\Users\shah7\source\repos\whatapp msg\whatapp msg\bin\Debug\whatapp msg.exe.config
+C:\Users\shah7\source\repos\whatapp msg\whatapp msg\bin\Debug\whatapp msg.exe
+C:\Users\shah7\source\repos\whatapp msg\whatapp msg\bin\Debug\whatapp msg.pdb
+C:\Users\shah7\source\repos\whatapp msg\whatapp msg\bin\Debug\WhatsAppApi.dll
+C:\Users\shah7\source\repos\whatapp msg\whatapp msg\obj\Debug\whatapp msg.csproj.CopyComplete
+C:\Users\shah7\source\repos\whatapp msg\whatapp msg\obj\Debug\whatapp msg.exe
+C:\Users\shah7\source\repos\whatapp msg\whatapp msg\obj\Debug\whatapp msg.pdb
+F:\project\whatapp msg\whatapp msg\bin\Debug\whatapp msg.exe.config
+F:\project\whatapp msg\whatapp msg\bin\Debug\whatapp msg.exe
+F:\project\whatapp msg\whatapp msg\bin\Debug\whatapp msg.pdb
+F:\project\whatapp msg\whatapp msg\bin\Debug\WhatsAppApi.dll
+F:\project\whatapp msg\whatapp msg\obj\Debug\whatapp msg.csprojAssemblyReference.cache
+F:\project\whatapp msg\whatapp msg\obj\Debug\whatapp_msg.Form1.resources
+F:\project\whatapp msg\whatapp msg\obj\Debug\whatapp_msg.Properties.Resources.resources
+F:\project\whatapp msg\whatapp msg\obj\Debug\whatapp msg.csproj.GenerateResource.cache
+F:\project\whatapp msg\whatapp msg\obj\Debug\whatapp msg.csproj.CoreCompileInputs.cache
+F:\project\whatapp msg\whatapp msg\obj\Debug\whatapp msg.csproj.CopyComplete
+F:\project\whatapp msg\whatapp msg\obj\Debug\whatapp msg.exe
+F:\project\whatapp msg\whatapp msg\obj\Debug\whatapp msg.pdb
